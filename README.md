@@ -50,13 +50,6 @@
 
 ---
 
-### 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saurabhjoshi904&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ### 📬 Let's Connect
 
