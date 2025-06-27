@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surabhjoshi904&show_icons=true&theme=github_dark&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhjoshi904&layout=compact&theme=github_dark&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=github_dark&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjoshi904&layout=compact&theme=github_dark&hide_border=false" width="48%"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ### 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagar0810k&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Saurabhjoshi904&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
