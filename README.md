@@ -35,16 +35,5 @@
 
 </p>
 
----
 
-### 🧠 Currently Learning:
-- ✨ Advanced React and Next.js
-- 🔐 Cybersecurity Fundamentals
-- 🤖 AI & Computer Vision Projects
-
----
-
-### ❤️ Fun Fact
-> I love solving real-world problems using code, and I believe in **“Learning by Building”**.  
-Let’s grow together 🚀
 
