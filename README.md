@@ -16,10 +16,9 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=github_dark&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjoshi904&layout=compact&theme=github_dark&hide_border=false" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhjoshi904&theme=tokyonight" />
 </p>
 
 ---
