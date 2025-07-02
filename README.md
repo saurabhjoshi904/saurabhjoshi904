@@ -35,7 +35,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=saurabhjoshi904&theme=tokyonight" alt="Saurabh's GitHub Streak" height="180px"/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhjoshi904k&theme=dark&show_icons=true&theme=tokyonight=false)<br/>
 </p>
 
 ### 📬 Let's Connect
