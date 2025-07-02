@@ -39,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=saurabhjoshi904&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=saurabhjoshi904&theme=tokyonight" alt="Saurabh's GitHub Streak" height="180px"/>
 </p>
 
 ---
