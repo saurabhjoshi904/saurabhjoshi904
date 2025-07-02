@@ -6,7 +6,9 @@
 </p>
 
 ---
-# 💻 Tech Stack:
+
+### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -32,11 +34,16 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" height="180px"/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhjoshi904k&theme=dark&show_icons=true&theme=tokyonight=false)<br/>
+  <img src="https://streak-stats.demolab.com/?user=saurabhjoshi904&theme=tokyonight" alt="Saurabh's GitHub Streak" height="180px"/>
 </p>
+
+---
 
 ### 📬 Let's Connect
 
@@ -46,4 +53,3 @@
   <a href="https://github.com/saurabhjoshi904" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://leetcode.com/saurabh_joshi01/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
