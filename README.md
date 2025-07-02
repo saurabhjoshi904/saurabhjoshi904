@@ -36,14 +36,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=tokyonight" alt="Saurabh's GitHub Stats" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=saurabhjoshi904&theme=tokyonight" alt="Saurabh's GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjoshi904&show_icons=true&theme=tokyonight" height="180px" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=saurabhjoshi904&theme=tokyonight" height="180px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjoshi904&layout=compact&theme=tokyonight&langs_count=8" height="180px" alt="Top Languages" />
 </p>
 
----
 
 ### 📬 Let's Connect
 
